@@ -16,7 +16,7 @@
 
  ### *Prerequisites:*
  * **Java Development Kit (JDK):** Version 17 or later.
- * **Oracle Database:** version 11g or higer.
+ * **Oracle Database:** Version 11g or higer.
  * **Lombok:** Make sure Lombok is installed and enabled in your IDE.
 
 ### Setups to run the application:
