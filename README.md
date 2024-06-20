@@ -49,7 +49,7 @@ INSERT INTO TRUSTBANK_LOGIN_DETAILS (sid, username, password, role) VALUES
 3.  Run **TrustBank-05-ApiGateway**
 4.  Run **TrustBank-01-Producer-Bank**
 5.  Run **TrustBank-02-Producer-Customer**
-6.  Run **TrustBank-EurekaServer**
+6.  Run **TrustBank-03-Consumer-Bank-Customer**
 
 After that ,open your web browser and navigate to **http://localhost:8761/** .Then click on the application instance 'TRUSTBANK-03-CONSUMER-BANK-CUSTOMER' and test the code ;)
 
